@@ -1,0 +1,2 @@
+rootProject.name='AudioAnimationView'
+include ':app'
